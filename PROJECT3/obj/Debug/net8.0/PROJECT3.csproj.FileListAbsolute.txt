@@ -1,0 +1,14 @@
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\obj\Debug\net8.0\PROJECT3.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\obj\Debug\net8.0\PROJECT3.AssemblyInfoInputs.cache
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\obj\Debug\net8.0\PROJECT3.AssemblyInfo.cs
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\obj\Debug\net8.0\PROJECT3.csproj.CoreCompileInputs.cache
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\bin\Debug\net8.0\PROJECT3.exe
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\bin\Debug\net8.0\PROJECT3.deps.json
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\bin\Debug\net8.0\PROJECT3.runtimeconfig.json
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\bin\Debug\net8.0\PROJECT3.dll
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\bin\Debug\net8.0\PROJECT3.pdb
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\obj\Debug\net8.0\PROJECT3.dll
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\obj\Debug\net8.0\refint\PROJECT3.dll
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\obj\Debug\net8.0\PROJECT3.pdb
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\obj\Debug\net8.0\PROJECT3.genruntimeconfig.cache
+D:\vs 2020\ConditionalStructuresSolution\PROJECT3\obj\Debug\net8.0\ref\PROJECT3.dll
